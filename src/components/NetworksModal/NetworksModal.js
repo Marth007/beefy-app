@@ -1,6 +1,6 @@
 import React, { memo, useCallback } from 'react';
 import { makeStyles } from '@material-ui/core/styles';
-import { Dialog, Grid, IconButton, Modal, styled, withStyles } from '@material-ui/core';
+import { Dialog, Grid, IconButton, withStyles } from '@material-ui/core';
 import { useTranslation } from 'react-i18next';
 import { Close } from '@material-ui/icons';
 import { getSingleAssetSrc } from '../../features/helpers/getSingleAssetSrc';
@@ -47,7 +47,7 @@ const NetworksModal = memo(function NetworksModal({ isOpen, handleClose, current
           <div className={classes.networksInner}>
             <Grid container>
               {allNetworks.map(network => (
-                <Grid item xs={4}>
+                <Grid key={network.name} item xs={4}>
                   <div
                     onClick={() => handleNetworkClick(network)}
                     className={classes.network}
