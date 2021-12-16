@@ -41,8 +41,8 @@ export const moonriverPools = [
     tokenDecimals: 18,
     tokenDescriptionUrl: '#',
     earnedToken: 'mooSushiETH-USDT',
-    earnedTokenAddress: '0xF1C5d79AE57425091E10B4A2BE1c1395C4Adb3a8',
-    earnContractAddress: '0xF1C5d79AE57425091E10B4A2BE1c1395C4Adb3a8',
+    earnedTokenAddress: '0x0DB1744a6D5bb4aB5FeaE826af120c08d84eefd4',
+    earnContractAddress: '0x0DB1744a6D5bb4aB5FeaE826af120c08d84eefd4',
     pricePerFullShare: 1,
     tvl: 0,
     oracle: 'lps',
@@ -52,6 +52,14 @@ export const moonriverPools = [
     status: 'active',
     platform: 'Sushi',
     assets: ['ETH', 'USDT'],
+    risks: [
+      'COMPLEXITY_LOW',
+      'BATTLE_TESTED',
+      'IL_LOW',
+      'MCAP_MEDIUM',
+      'AUDIT',
+      'CONTRACTS_VERIFIED',
+    ],
     addLiquidityUrl:
       'https://app.sushi.com/add/0x639a647fbe20b6c8ac19e48e2de44ea792c62c5c/0xb44a9b6905af7c801311e8f4e76932ee959c663c',
     buyTokenUrl:
