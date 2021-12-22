@@ -99,7 +99,7 @@ export const moonriverPools = [
       'https://app.sushi.com/swap?inputCurrency=0xf390830DF829cf22c53c8840554B98eafC5dCBc2&outputCurrency=0x6dC6D33331e9d5DeEf449C8CAb9e34D687BEA80E',
   },
   {
-    id: 'sushi-mr-frax-usdc', //not deployed
+    id: 'sushi-mr-frax-usdc',
     name: 'FRAX-USDC LP',
     token: 'FRAX-USDC LP',
     tokenDescription: 'Sushi',
@@ -139,7 +139,7 @@ export const moonriverPools = [
     tokenAddress: '0xD4Ce5671b842573EDA99164971AFaA034245f4D8',
     tokenDecimals: 18,
     tokenDescriptionUrl: '#',
-    earnedToken: 'mooSushiETH-USDT',
+    earnedToken: 'mooSushiETH-WMOVR',
     earnedTokenAddress: '0x65bb8496DDfE7470516C0Ed014C0eDc7C7973676',
     earnContractAddress: '0x65bb8496DDfE7470516C0Ed014C0eDc7C7973676',
     pricePerFullShare: 1,
