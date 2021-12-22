@@ -206,8 +206,8 @@ export const moonriverPools = [
     tokenDecimals: 18,
     tokenDescriptionUrl: '#',
     earnedToken: 'mooSushiETH-BNB',
-    earnedTokenAddress: '0x65bb8496DDfE7470516C0Ed014C0eDc7C7973676', //
-    earnContractAddress: '0x65bb8496DDfE7470516C0Ed014C0eDc7C7973676', //
+    earnedTokenAddress: '0x391db851d684b1D1D8b034d678Db4C5701AFfe2e', //
+    earnContractAddress: '0x391db851d684b1D1D8b034d678Db4C5701AFfe2e', //
     pricePerFullShare: 1,
     tvl: 0,
     oracle: 'lps',
