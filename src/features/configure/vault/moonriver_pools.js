@@ -206,8 +206,8 @@ export const moonriverPools = [
     tokenDecimals: 18,
     tokenDescriptionUrl: '#',
     earnedToken: 'mooSushiETH-BNB',
-    earnedTokenAddress: '0x391db851d684b1D1D8b034d678Db4C5701AFfe2e', //
-    earnContractAddress: '0x391db851d684b1D1D8b034d678Db4C5701AFfe2e', //
+    earnedTokenAddress: '0x391db851d684b1D1D8b034d678Db4C5701AFfe2e',
+    earnContractAddress: '0x391db851d684b1D1D8b034d678Db4C5701AFfe2e',
     pricePerFullShare: 1,
     tvl: 0,
     oracle: 'lps',
@@ -239,8 +239,8 @@ export const moonriverPools = [
     tokenDecimals: 18,
     tokenDescriptionUrl: '#',
     earnedToken: 'mooSushiETH-WBTC',
-    earnedTokenAddress: '0x65bb8496DDfE7470516C0Ed014C0eDc7C7973676', //
-    earnContractAddress: '0x65bb8496DDfE7470516C0Ed014C0eDc7C7973676', //
+    earnedTokenAddress: '0xB4CDa8f7E91a5306c0e66c58F43aC2C987aA7268',
+    earnContractAddress: '0xB4CDa8f7E91a5306c0e66c58F43aC2C987aA7268',
     pricePerFullShare: 1,
     tvl: 0,
     oracle: 'lps',
@@ -268,12 +268,12 @@ export const moonriverPools = [
     name: 'ETH-DAI LP',
     token: 'ETH-DAI LP',
     tokenDescription: 'Sushi',
-    tokenAddress: '0xc6ca9c83c07a7a3a5461c817ea5210723508a9fd',
+    tokenAddress: '0xC6Ca9C83c07A7a3A5461c817eA5210723508A9fD',
     tokenDecimals: 18,
     tokenDescriptionUrl: '#',
     earnedToken: 'mooSushiETH-DAI',
-    earnedTokenAddress: '0x65bb8496DDfE7470516C0Ed014C0eDc7C7973676', //
-    earnContractAddress: '0x65bb8496DDfE7470516C0Ed014C0eDc7C7973676', //
+    earnedTokenAddress: '0x817336ccfa4B221342Ef6E3dCFA3523c8BFf76D6',
+    earnContractAddress: '0x817336ccfa4B221342Ef6E3dCFA3523c8BFf76D6',
     pricePerFullShare: 1,
     tvl: 0,
     oracle: 'lps',
