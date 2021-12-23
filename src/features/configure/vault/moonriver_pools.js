@@ -34,7 +34,7 @@ export const moonriverPools = [
   },
   {
     id: 'sushi-mr-eth-usdt',
-    name: 'ETH-USDT LP',
+    name: 'ETH-USDT SLP',
     token: 'ETH-USDT LP',
     tokenDescription: 'Sushi',
     tokenAddress: '0xB0A594e76A876DE40a7fda9819E5c4Ec6d9Fd222',
@@ -67,7 +67,7 @@ export const moonriverPools = [
   },
   {
     id: 'sushi-mr-mim-wmovr',
-    name: 'MIM-WMOVR LP',
+    name: 'MIM-WMOVR SLP',
     token: 'MIM-WMOVR LP',
     tokenDescription: 'Sushi',
     tokenAddress: '0x6dC6D33331e9d5DeEf449C8CAb9e34D687BEA80E',
@@ -100,7 +100,7 @@ export const moonriverPools = [
   },
   {
     id: 'sushi-mr-frax-usdc',
-    name: 'FRAX-USDC LP',
+    name: 'FRAX-USDC SLP',
     token: 'FRAX-USDC LP',
     tokenDescription: 'Sushi',
     tokenAddress: '0x310C4d18640aF4878567c4A31cB9cBde7Cd234A3',
@@ -133,7 +133,7 @@ export const moonriverPools = [
   },
   {
     id: 'sushi-mr-eth-wmovr',
-    name: 'ETH-WMOVR LP',
+    name: 'ETH-WMOVR SLP',
     token: 'ETH-WMOVR LP',
     tokenDescription: 'Sushi',
     tokenAddress: '0xD4Ce5671b842573EDA99164971AFaA034245f4D8',
@@ -166,7 +166,7 @@ export const moonriverPools = [
   },
   {
     id: 'sushi-mr-usdt-usdc',
-    name: 'USDT-USDC LP',
+    name: 'USDT-USDC SLP',
     token: 'USDT-USDC LP',
     tokenDescription: 'Sushi',
     tokenAddress: '0x930B0464411DE2296E3FD3eeE30ab989F635645E',
@@ -199,7 +199,7 @@ export const moonriverPools = [
   },
   {
     id: 'sushi-mr-eth-bnb',
-    name: 'ETH-BNB.bsc LP',
+    name: 'ETH-BNB.bsc SLP',
     token: 'ETH-BNB.bsc LP',
     tokenDescription: 'Sushi',
     tokenAddress: '0x69B4FbD8c8Cf74720A62A5e92e2528c3f895cE10',
@@ -232,7 +232,7 @@ export const moonriverPools = [
   },
   {
     id: 'sushi-mr-eth-wbtc',
-    name: 'ETH-WBTC LP',
+    name: 'ETH-WBTC SLP',
     token: 'ETH-WBTC LP',
     tokenDescription: 'Sushi',
     tokenAddress: '0x85657487978d65BB7881e9dAD3aA119E6E6705cE',
@@ -265,7 +265,7 @@ export const moonriverPools = [
   },
   {
     id: 'sushi-mr-eth-dai',
-    name: 'ETH-DAI LP',
+    name: 'ETH-DAI SLP',
     token: 'ETH-DAI LP',
     tokenDescription: 'Sushi',
     tokenAddress: '0xC6Ca9C83c07A7a3A5461c817eA5210723508A9fD',
