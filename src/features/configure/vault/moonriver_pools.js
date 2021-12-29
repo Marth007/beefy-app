@@ -34,7 +34,7 @@ export const moonriverPools = [
   },
   {
     id: 'sushi-mr-eth-usdt',
-    name: 'ETH-USDT LP',
+    name: 'ETH-USDT',
     token: 'ETH-USDT SLP',
     tokenDescription: 'Sushi',
     tokenAddress: '0xB0A594e76A876DE40a7fda9819E5c4Ec6d9Fd222',
@@ -63,11 +63,11 @@ export const moonriverPools = [
     addLiquidityUrl:
       'https://app.sushi.com/add/0x639a647fbe20b6c8ac19e48e2de44ea792c62c5c/0xb44a9b6905af7c801311e8f4e76932ee959c663c',
     buyTokenUrl:
-      'https://app.sushi.com/swap?inputCurrency=0xf390830DF829cf22c53c8840554B98eafC5dCBc2&outputCurrency=0x639A647fbe20b6c8ac19E48E2de44ea792c62c5C',
+      'https://app.sushi.com/swap?outputCurrency=0xb44a9b6905af7c801311e8f4e76932ee959c663c',
   },
   {
     id: 'sushi-mr-mim-wmovr',
-    name: 'MIM-WMOVR LP',
+    name: 'MIM-WMOVR',
     token: 'MIM-WMOVR SLP',
     tokenDescription: 'Sushi',
     tokenAddress: '0x6dC6D33331e9d5DeEf449C8CAb9e34D687BEA80E',
@@ -96,11 +96,11 @@ export const moonriverPools = [
     addLiquidityUrl:
       'https://app.sushi.com/add/0x0caE51e1032e8461f4806e26332c030E34De3aDb/0xf50225a84382c74CbdeA10b0c176f71fc3DE0C4d',
     buyTokenUrl:
-      'https://app.sushi.com/swap?inputCurrency=0xf390830DF829cf22c53c8840554B98eafC5dCBc2&outputCurrency=0xf50225a84382c74CbdeA10b0c176f71fc3DE0C4d',
+      'https://app.sushi.com/swap?outputCurrency=0xf50225a84382c74CbdeA10b0c176f71fc3DE0C4d',
   },
   {
     id: 'sushi-mr-frax-usdc',
-    name: 'FRAX-USDC LP',
+    name: 'FRAX-USDC',
     token: 'FRAX-USDC SLP',
     tokenDescription: 'Sushi',
     tokenAddress: '0x310C4d18640aF4878567c4A31cB9cBde7Cd234A3',
@@ -129,11 +129,11 @@ export const moonriverPools = [
     addLiquidityUrl:
       'https://app.sushi.com/add/0x1A93B23281CC1CDE4C4741353F3064709A16197d/0xE3F5a90F9cb311505cd691a46596599aA1A0AD7D',
     buyTokenUrl:
-      'https://app.sushi.com/swap?inputCurrency=0xf390830DF829cf22c53c8840554B98eafC5dCBc2&outputCurrency=0xE3F5a90F9cb311505cd691a46596599aA1A0AD7D',
+      'https://app.sushi.com/swap?outputCurrency=0xE3F5a90F9cb311505cd691a46596599aA1A0AD7D',
   },
   {
     id: 'sushi-mr-eth-wmovr',
-    name: 'ETH-WMOVR LP',
+    name: 'ETH-WMOVR',
     token: 'ETH-WMOVR SLP',
     tokenDescription: 'Sushi',
     tokenAddress: '0xD4Ce5671b842573EDA99164971AFaA034245f4D8',
@@ -162,11 +162,11 @@ export const moonriverPools = [
     addLiquidityUrl:
       'https://app.sushi.com/add/0x639a647fbe20b6c8ac19e48e2de44ea792c62c5c/0xf50225a84382c74CbdeA10b0c176f71fc3DE0C4d',
     buyTokenUrl:
-      'https://app.sushi.com/swap?inputCurrency=0xf390830DF829cf22c53c8840554B98eafC5dCBc2&outputCurrency=0x639A647fbe20b6c8ac19E48E2de44ea792c62c5C',
+      'https://app.sushi.com/swap?outputCurrency=0xf50225a84382c74CbdeA10b0c176f71fc3DE0C4d',
   },
   {
     id: 'sushi-mr-usdt-usdc',
-    name: 'USDT-USDC LP',
+    name: 'USDT-USDC',
     token: 'USDT-USDC SLP',
     tokenDescription: 'Sushi',
     tokenAddress: '0x930B0464411DE2296E3FD3eeE30ab989F635645E',
@@ -195,11 +195,11 @@ export const moonriverPools = [
     addLiquidityUrl:
       'https://app.sushi.com/add/0xB44a9B6905aF7c801311e8F4E76932ee959c663C/0xE3F5a90F9cb311505cd691a46596599aA1A0AD7D',
     buyTokenUrl:
-      'https://app.sushi.com/swap?inputCurrency=0xf390830DF829cf22c53c8840554B98eafC5dCBc2&outputCurrency=0xE3F5a90F9cb311505cd691a46596599aA1A0AD7D',
+      'https://app.sushi.com/swap?outputCurrency=0xE3F5a90F9cb311505cd691a46596599aA1A0AD7D',
   },
   {
     id: 'sushi-mr-eth-bnb',
-    name: 'ETH-BNB.bsc LP',
+    name: 'ETH-BNB.bsc',
     token: 'ETH-BNB.bsc SLP',
     tokenDescription: 'Sushi',
     tokenAddress: '0x69B4FbD8c8Cf74720A62A5e92e2528c3f895cE10',
@@ -228,11 +228,11 @@ export const moonriverPools = [
     addLiquidityUrl:
       'https://app.sushi.com/add/0x639A647fbe20b6c8ac19E48E2de44ea792c62c5C/0x868892CCcEdbfF0B028F3b3595205Ea91b99376B',
     buyTokenUrl:
-      'https://app.sushi.com/swap?inputCurrency=0xf390830DF829cf22c53c8840554B98eafC5dCBc2&outputCurrency=0x639A647fbe20b6c8ac19E48E2de44ea792c62c5C',
+      'https://app.sushi.com/swap?outputCurrency=0x868892CCcEdbfF0B028F3b3595205Ea91b99376B',
   },
   {
     id: 'sushi-mr-eth-wbtc',
-    name: 'ETH-WBTC LP',
+    name: 'ETH-WBTC',
     token: 'ETH-WBTC SLP',
     tokenDescription: 'Sushi',
     tokenAddress: '0x85657487978d65BB7881e9dAD3aA119E6E6705cE',
@@ -261,11 +261,11 @@ export const moonriverPools = [
     addLiquidityUrl:
       'https://app.sushi.com/add/0x639A647fbe20b6c8ac19E48E2de44ea792c62c5C/0xE6a991Ffa8CfE62B0bf6BF72959A3d4f11B2E0f5',
     buyTokenUrl:
-      'https://app.sushi.com/swap?inputCurrency=0xf390830DF829cf22c53c8840554B98eafC5dCBc2&outputCurrency=0xE6a991Ffa8CfE62B0bf6BF72959A3d4f11B2E0f5',
+      'https://app.sushi.com/swap?outputCurrency=0xE6a991Ffa8CfE62B0bf6BF72959A3d4f11B2E0f5',
   },
   {
     id: 'sushi-mr-eth-dai',
-    name: 'ETH-DAI LP',
+    name: 'ETH-DAI',
     token: 'ETH-DAI SLP',
     tokenDescription: 'Sushi',
     tokenAddress: '0xC6Ca9C83c07A7a3A5461c817eA5210723508A9fD',
@@ -294,7 +294,7 @@ export const moonriverPools = [
     addLiquidityUrl:
       'https://app.sushi.com/add/0x639A647fbe20b6c8ac19E48E2de44ea792c62c5C/0x80A16016cC4A2E6a2CACA8a4a498b1699fF0f844',
     buyTokenUrl:
-      'https://app.sushi.com/swap?inputCurrency=0xf390830DF829cf22c53c8840554B98eafC5dCBc2&outputCurrency=0x639A647fbe20b6c8ac19E48E2de44ea792c62c5C',
+      'https://app.sushi.com/swap?outputCurrency=0x80A16016cC4A2E6a2CACA8a4a498b1699fF0f844',
   },
   {
     id: 'solarbeam-mim-wmovr',
